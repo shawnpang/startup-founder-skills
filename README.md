@@ -4,6 +4,15 @@ A collection of AI agent skills for tech startup founders. Covers the full found
 
 **Contributions welcome!** Found a way to improve a skill or have a new one to add? [Open a PR](#contributing).
 
+## Who Is This For?
+
+- **Solo technical founders** building an MVP who also need to fundraise, sell, hire, and market — without a team to delegate to
+- **First-time founders** who know how to code but haven't written a pitch deck, cold email, or job description before
+- **Small founding teams (2-3 people)** wearing multiple hats and needing to move fast across every function
+- **Technical co-founders** who handle product and engineering but now need to step into sales, recruiting, or investor conversations
+
+If you're at a company with a VP of Sales, a Head of Marketing, and in-house counsel — you probably don't need this. These skills are for founders who *are* the sales team, the marketing team, and the legal team, all at once.
+
 ## What are Skills?
 
 Skills are markdown files that give AI agents specialized knowledge and workflows for specific tasks. When you add these to your project, your agent can recognize what you're working on and apply the right frameworks, templates, and best practices — so you get founder-grade output, not generic AI slop.
@@ -123,8 +132,6 @@ See each skill's **Related Skills** section for the full dependency map.
 
 ## Installation
 
-### Option 1: CLI Install (Recommended)
-
 ```bash
 # Install all skills
 npx skills add shawnpang/startup-founder-skills
@@ -138,25 +145,6 @@ npx skills add shawnpang/startup-founder-skills --skill fundraising
 # List available skills
 npx skills add shawnpang/startup-founder-skills --list
 ```
-
-### Option 2: Clone and Copy
-
-```bash
-git clone https://github.com/shawnpang/startup-founder-skills.git
-cp -r startup-founder-skills/skills/* .agents/skills/
-```
-
-### Option 3: Git Submodule
-
-```bash
-git submodule add https://github.com/shawnpang/startup-founder-skills.git .agents/startup-founder-skills
-```
-
-### Option 4: Fork and Customize
-
-1. Fork this repository
-2. Customize skills for your startup's specific needs
-3. Clone your fork into your projects
 
 ## Usage
 
