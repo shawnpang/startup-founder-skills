@@ -60,67 +60,67 @@ See each skill's **Related Skills** section for the full dependency map.
 ## Available Skills
 
 <!-- SKILLS:START -->
-| Skill | Confidence | Description |
-|-------|------------|-------------|
-| [startup-context](skills/startup-context/) | — | Foundation skill read by all others. Captures your company stage, product, market, team, metrics, and goals so every skill produces tailored output. |
-| | | |
-| **Fundraising** | | |
-| [pitch-deck](skills/pitch-deck/) | Medium | Create or refine pitch deck content — slide-by-slide narrative, not just bullet points. Narrative and story still need your voice. |
-| [investor-research](skills/investor-research/) | High | Identify, qualify, and prioritize potential investors by stage, sector, check size, and portfolio fit. |
-| [data-room](skills/data-room/) | High | Prepare due diligence materials — checklists, document organization, and drafts for missing items. |
-| [fundraising-email](skills/fundraising-email/) | High | Write investor outreach — cold intros, warm follow-ups, update emails, and thank-you notes. |
-| | | |
-| **Sales & BD** | | |
-| [cold-outreach](skills/cold-outreach/) | High | Write cold emails, LinkedIn messages, and follow-up sequences for B2B prospecting. Proven to increase volume 5x with better personalization. |
-| [sales-script](skills/sales-script/) | Medium | Demo scripts, discovery call frameworks, objection handling docs, and closing playbooks. Good prep material, but live calls need human adaptation. |
-| [proposal-generation](skills/proposal-generation/) | Medium | Create sales proposals, SOWs, and pricing quotes. Structure is solid, deal-specific nuance needs your input. |
-| [lead-scoring](skills/lead-scoring/) | Medium | Define ICP criteria, lead qualification frameworks, and scoring models. Also covers pipeline stage design. |
-| [partnership-outreach](skills/partnership-outreach/) | High | Write partnership proposals, integration pitches, and co-marketing outreach. |
-| | | |
-| **Product & Strategy** | | |
-| [prd-writing](skills/prd-writing/) | Medium | Write product requirements documents, feature specs, and user story sets. Great first drafts, needs your product judgment. |
-| [user-research-synthesis](skills/user-research-synthesis/) | Medium | Synthesize customer interviews, survey data, and support tickets into insights and personas. |
-| [roadmap-planning](skills/roadmap-planning/) | Medium | Build or update a product roadmap with timeline views, dependencies, and milestones. |
-| [mvp-scoping](skills/mvp-scoping/) | Medium | Define MVP scope — what to build, what to cut, and what to defer. |
-| [competitive-analysis](skills/competitive-analysis/) | High | Research competitors — feature comparison, positioning analysis, pricing benchmarks, and market mapping. |
-| [market-research](skills/market-research/) | Medium | Size a market (TAM/SAM/SOM), identify trends, and validate market hypotheses. Useful framework, verify data points. |
-| | | |
-| **Recruiting & Team** | | |
-| [job-description](skills/job-description/) | High | Write compelling job descriptions that attract top candidates without corporate jargon. |
-| [interview-kit](skills/interview-kit/) | High | Design interview processes — questions, scorecards, take-home assignments, evaluation rubrics, and comp benchmarking. |
-| [sourcing-outreach](skills/sourcing-outreach/) | High | Write recruiting outreach — LinkedIn inmails, cold emails to candidates, and referral requests. |
-| [employer-brand](skills/employer-brand/) | Medium | Build employer branding — careers page copy, team culture docs, and engineering blog posts. |
-| | | |
-| **Engineering** | | |
-| [architecture-design](skills/architecture-design/) | Medium | Design system architecture — service boundaries, data models, API design, and infrastructure planning. |
-| [code-review](skills/code-review/) | High | Thorough code review focused on correctness, security, performance, and maintainability. |
-| [cicd-setup](skills/cicd-setup/) | High | Set up or improve CI/CD pipelines — GitHub Actions, testing, deployment, and release automation. |
-| [tech-stack-eval](skills/tech-stack-eval/) | Medium | Evaluate and select technologies — frameworks, databases, hosting, and third-party services. |
-| [security-review](skills/security-review/) | High | Audit security — OWASP top 10, auth flows, data handling, and dependency vulnerabilities. |
-| | | |
-| **Legal & Compliance** | | |
-| [privacy-policy](skills/privacy-policy/) | High | Generate or update a privacy policy, cookie policy, or data processing documentation. **Not a substitute for legal counsel.** |
-| [terms-of-service](skills/terms-of-service/) | High | Draft or update terms of service, acceptable use policies, or SaaS agreements. **Not a substitute for legal counsel.** |
-| [contract-review](skills/contract-review/) | Medium | Review contracts and flag risks — vendor agreements, partnership deals, or customer contracts. Good for spotting issues, lawyer signs off. |
-| [soc2-prep](skills/soc2-prep/) | Medium | Prepare for SOC 2 compliance — policy templates, control mapping, and evidence collection checklists. |
-| | | |
-| **Operations** | | |
-| [process-docs](skills/process-docs/) | High | Document processes, create SOPs, and build internal playbooks and runbooks. |
-| [board-update](skills/board-update/) | Medium | Write investor updates, board decks, and monthly/quarterly reports. Template and structure are great, substance must be real. |
-| | | |
-| **Customer Success** | | |
-| [onboarding-flow](skills/onboarding-flow/) | Medium | Design or optimize user onboarding — activation flows, welcome sequences, and time-to-value optimization. |
-| [support-docs](skills/support-docs/) | High | Create help center articles, FAQs, troubleshooting guides, and API documentation. |
-| [feedback-synthesis](skills/feedback-synthesis/) | Medium | Analyze customer feedback — categorize themes, identify patterns, and prioritize action items. |
-| [churn-analysis](skills/churn-analysis/) | Medium | Analyze churn — identify drivers, design retention experiments, and create win-back campaigns. |
-| | | |
-| **Marketing & Growth** | | |
-| [landing-page](skills/landing-page/) | High | Build or optimize a landing page — copy, layout, CTAs, and conversion optimization. |
-| [content-strategy](skills/content-strategy/) | High | Plan content — blog strategy, SEO content calendars, thought leadership, and documentation. |
-| [seo-technical](skills/seo-technical/) | High | Audit or improve technical SEO — site structure, meta tags, schema markup, and Core Web Vitals. |
-| [email-marketing](skills/email-marketing/) | High | Create email campaigns — newsletters, drip sequences, lifecycle emails, and re-engagement flows. |
-| [social-content](skills/social-content/) | High | Create social media content — LinkedIn posts, Twitter/X threads, and content repurposing. |
-| [launch-strategy](skills/launch-strategy/) | Medium | Plan a product launch — Product Hunt, Hacker News, press outreach, and community seeding. |
+| Skill | Confidence | Author | Description |
+|-------|------------|--------|-------------|
+| [startup-context](skills/startup-context/) | — | Shawn Pang | Foundation skill read by all others. Captures your company stage, product, market, team, metrics, and goals so every skill produces tailored output. |
+| | | | |
+| **Fundraising** | | | |
+| [pitch-deck](skills/pitch-deck/) | Medium | Shawn Pang | Create or refine pitch deck content — slide-by-slide narrative, not just bullet points. Narrative and story still need your voice. |
+| [investor-research](skills/investor-research/) | High | Shawn Pang | Identify, qualify, and prioritize potential investors by stage, sector, check size, and portfolio fit. |
+| [data-room](skills/data-room/) | High | Shawn Pang | Prepare due diligence materials — checklists, document organization, and drafts for missing items. |
+| [fundraising-email](skills/fundraising-email/) | High | Shawn Pang | Write investor outreach — cold intros, warm follow-ups, update emails, and thank-you notes. |
+| | | | |
+| **Sales & BD** | | | |
+| [cold-outreach](skills/cold-outreach/) | High | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Write cold emails, LinkedIn messages, and follow-up sequences for B2B prospecting. Adapted from cold-email skill. |
+| [sales-script](skills/sales-script/) | Medium | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Demo scripts, discovery call frameworks, objection handling docs, and closing playbooks. Adapted from sales-enablement skill. |
+| [proposal-generation](skills/proposal-generation/) | Medium | [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills) | Create sales proposals, SOWs, and pricing quotes. Adapted from contract-and-proposal-writer skill. |
+| [lead-scoring](skills/lead-scoring/) | Medium | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Define ICP criteria, lead qualification frameworks, and scoring models. Adapted from revops skill. |
+| [partnership-outreach](skills/partnership-outreach/) | High | Shawn Pang | Write partnership proposals, integration pitches, and co-marketing outreach. |
+| | | | |
+| **Product & Strategy** | | | |
+| [prd-writing](skills/prd-writing/) | Medium | [phuryn](https://github.com/phuryn/pm-skills) | Write product requirements documents, feature specs, and user story sets. Adapted from create-prd skill. |
+| [user-research-synthesis](skills/user-research-synthesis/) | Medium | [phuryn](https://github.com/phuryn/pm-skills) | Synthesize customer interviews, survey data, and support tickets into insights and personas. Adapted from summarize-interview skill. |
+| [roadmap-planning](skills/roadmap-planning/) | Medium | [phuryn](https://github.com/phuryn/pm-skills) | Build or update a product roadmap with timeline views, dependencies, and milestones. Adapted from outcome-roadmap skill. |
+| [mvp-scoping](skills/mvp-scoping/) | Medium | Shawn Pang | Define MVP scope — what to build, what to cut, and what to defer. |
+| [competitive-analysis](skills/competitive-analysis/) | High | [phuryn](https://github.com/phuryn/pm-skills) | Research competitors — feature comparison, positioning analysis, pricing benchmarks, and market mapping. Adapted from competitor-analysis skill. |
+| [market-research](skills/market-research/) | Medium | [phuryn](https://github.com/phuryn/pm-skills) | Size a market (TAM/SAM/SOM), identify trends, and validate market hypotheses. Adapted from market-sizing skill. |
+| | | | |
+| **Recruiting & Team** | | | |
+| [job-description](skills/job-description/) | High | Shawn Pang | Write compelling job descriptions that attract top candidates without corporate jargon. |
+| [interview-kit](skills/interview-kit/) | High | [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills) | Design interview processes — questions, scorecards, take-home assignments, evaluation rubrics, and comp benchmarking. Adapted from interview-system-designer skill. |
+| [sourcing-outreach](skills/sourcing-outreach/) | High | Shawn Pang | Write recruiting outreach — LinkedIn inmails, cold emails to candidates, and referral requests. |
+| [employer-brand](skills/employer-brand/) | Medium | Shawn Pang | Build employer branding — careers page copy, team culture docs, and engineering blog posts. |
+| | | | |
+| **Engineering** | | | |
+| [architecture-design](skills/architecture-design/) | Medium | [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills) | Design system architecture — service boundaries, data models, API design, and infrastructure planning. Adapted from senior-architect skill. |
+| [code-review](skills/code-review/) | High | [Jeff Allan](https://github.com/Jeffallan/claude-skills) | Thorough code review focused on correctness, security, performance, and maintainability. Adapted from code-reviewer skill. |
+| [cicd-setup](skills/cicd-setup/) | High | [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills) | Set up or improve CI/CD pipelines — GitHub Actions, testing, deployment, and release automation. Adapted from ci-cd-pipeline-builder skill. |
+| [tech-stack-eval](skills/tech-stack-eval/) | Medium | [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills) | Evaluate and select technologies — frameworks, databases, hosting, and third-party services. Adapted from tech-stack-evaluator skill. |
+| [security-review](skills/security-review/) | High | [Jeff Allan](https://github.com/Jeffallan/claude-skills) | Audit security — OWASP top 10, auth flows, data handling, and dependency vulnerabilities. Adapted from security-reviewer skill. |
+| | | | |
+| **Legal & Compliance** | | | |
+| [privacy-policy](skills/privacy-policy/) | High | [phuryn](https://github.com/phuryn/pm-skills) | Generate or update a privacy policy, cookie policy, or data processing documentation. Adapted from privacy-policy skill. **Not a substitute for legal counsel.** |
+| [terms-of-service](skills/terms-of-service/) | High | Shawn Pang | Draft or update terms of service, acceptable use policies, or SaaS agreements. **Not a substitute for legal counsel.** |
+| [contract-review](skills/contract-review/) | Medium | Shawn Pang | Review contracts and flag risks — vendor agreements, partnership deals, or customer contracts. Good for spotting issues, lawyer signs off. |
+| [soc2-prep](skills/soc2-prep/) | Medium | [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills) | Prepare for SOC 2 compliance — policy templates, control mapping, and evidence collection checklists. Adapted from ciso-advisor skill. |
+| | | | |
+| **Operations** | | | |
+| [process-docs](skills/process-docs/) | High | Shawn Pang | Document processes, create SOPs, and build internal playbooks and runbooks. |
+| [board-update](skills/board-update/) | Medium | [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills) | Write investor updates, board decks, and monthly/quarterly reports. Adapted from board-deck-builder skill. |
+| | | | |
+| **Customer Success** | | | |
+| [onboarding-flow](skills/onboarding-flow/) | Medium | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Design or optimize user onboarding — activation flows, welcome sequences, and time-to-value optimization. Adapted from onboarding-cro skill. |
+| [support-docs](skills/support-docs/) | High | Shawn Pang | Create help center articles, FAQs, troubleshooting guides, and API documentation. |
+| [feedback-synthesis](skills/feedback-synthesis/) | Medium | [phuryn](https://github.com/phuryn/pm-skills) | Analyze customer feedback — categorize themes, identify patterns, and prioritize action items. Adapted from analyze-feature-requests skill. |
+| [churn-analysis](skills/churn-analysis/) | Medium | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Analyze churn — identify drivers, design retention experiments, and create win-back campaigns. Adapted from churn-prevention skill. |
+| | | | |
+| **Marketing & Growth** | | | |
+| [landing-page](skills/landing-page/) | High | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Build or optimize a landing page — copy, layout, CTAs, and conversion optimization. Adapted from page-cro skill. |
+| [content-strategy](skills/content-strategy/) | High | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Plan content — blog strategy, SEO content calendars, thought leadership, and documentation. Adapted from content-strategy skill. |
+| [seo-technical](skills/seo-technical/) | High | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Audit or improve technical SEO — site structure, meta tags, schema markup, and Core Web Vitals. Adapted from seo-audit skill. |
+| [email-marketing](skills/email-marketing/) | High | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Create email campaigns — newsletters, drip sequences, lifecycle emails, and re-engagement flows. Adapted from email-sequence skill. |
+| [social-content](skills/social-content/) | High | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Create social media content — LinkedIn posts, Twitter/X threads, and content repurposing. Adapted from social-content skill. |
+| [launch-strategy](skills/launch-strategy/) | Medium | [Corey Haines](https://github.com/coreyhaines31/marketingskills) | Plan a product launch — Product Hunt, Hacker News, press outreach, and community seeding. Adapted from launch-strategy skill. |
 <!-- SKILLS:END -->
 
 ## Installation
