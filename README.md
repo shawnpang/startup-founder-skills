@@ -300,4 +300,4 @@ Found a way to improve a skill? Have a new skill to suggest? PRs and issues welc
 
 ## Acknowledgments
 
-Inspired by [Marketing Skills for AI Agents](https://github.com/coreyhaines31/marketingskills) by Corey Haines.
+Inspired by [Marketing Skills for AI Agents](https://github.com/coreyhaines31/marketingskills) by Corey Haines, which focuses on marketing tasks. This project extends the same concept to the full startup founder stack — fundraising, sales, product, recruiting, engineering, legal, ops, and growth.
