@@ -1,6 +1,6 @@
 ---
 name: social-content
-trigger: When the user needs to build a LinkedIn authority system, create social content strategy, define content pillars, write posts, or establish thought leadership positioning. Activate on "LinkedIn strategy," "content pillars," "what should I post," or "build my personal brand."
+description: When the user needs to build a LinkedIn authority system, create social content strategy, define content pillars, write posts, or establish thought leadership positioning. Activate on "LinkedIn strategy," "content pillars," "what should I post," or "build my personal brand."
 related: [content-strategy, email-marketing, launch-strategy]
 reads: [startup-context]
 ---

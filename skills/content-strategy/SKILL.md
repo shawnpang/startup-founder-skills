@@ -1,6 +1,6 @@
 ---
 name: content-strategy
-trigger: When the user needs to plan, prioritize, or structure a content program -- including identifying content pillars, mapping content to the buyer journey, choosing content types, or building an editorial calendar.
+description: When the user needs to plan, prioritize, or structure a content program -- including identifying content pillars, mapping content to the buyer journey, choosing content types, or building an editorial calendar.
 related: [seo-technical, social-content, email-marketing]
 reads: [startup-context]
 ---

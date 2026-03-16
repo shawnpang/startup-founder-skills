@@ -1,6 +1,6 @@
 ---
 name: churn-analysis
-trigger: When the user needs to identify at-risk accounts, understand why customers are leaving, reduce churn rate, build health scores, design save plays, or create win-back campaigns.
+description: When the user needs to identify at-risk accounts, understand why customers are leaving, reduce churn rate, build health scores, design save plays, or create win-back campaigns.
 related: [feedback-synthesis, onboarding-flow, email-marketing]
 reads: [startup-context]
 ---

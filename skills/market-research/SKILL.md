@@ -1,6 +1,6 @@
 ---
 name: market-research
-trigger: When the user needs to estimate market size, understand market dynamics, or validate that a market opportunity is large enough to pursue.
+description: When the user needs to estimate market size, understand market dynamics, or validate that a market opportunity is large enough to pursue.
 related: [competitive-analysis, prd-writing]
 reads: [startup-context]
 ---

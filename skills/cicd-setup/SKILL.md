@@ -1,6 +1,6 @@
 ---
 name: cicd-setup
-trigger: When the user needs to set up or improve CI/CD pipelines — GitHub Actions, GitLab CI, deployment automation, or says "set up CI", "automate deployment", "add tests to pipeline", "fix my build".
+description: When the user needs to set up or improve CI/CD pipelines — GitHub Actions, GitLab CI, deployment automation, or says "set up CI", "automate deployment", "add tests to pipeline", "fix my build".
 related: [code-review, security-review]
 reads: [startup-context]
 ---

@@ -1,6 +1,6 @@
 ---
 name: launch-strategy
-trigger: When the user needs to plan or execute a product launch — including pre-launch content sequences, launch funnels, JV/affiliate launches, cart open/close strategy, or evergreen launch funnels.
+description: When the user needs to plan or execute a product launch — including pre-launch content sequences, launch funnels, JV/affiliate launches, cart open/close strategy, or evergreen launch funnels.
 related: [content-strategy, social-content, email-marketing, landing-page]
 reads: [startup-context]
 ---

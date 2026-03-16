@@ -1,6 +1,6 @@
 ---
 name: contract-review
-trigger: When the user needs to review an existing contract, assess risk in proposed terms, or evaluate a contract before signing.
+description: When the user needs to review an existing contract, assess risk in proposed terms, or evaluate a contract before signing.
 related: [terms-of-service, privacy-policy]
 reads: [startup-context]
 ---

@@ -1,6 +1,6 @@
 ---
 name: founder-thought-leadership
-trigger: When the user wants to build personal brand, thought leadership, or IP as a founder on Twitter/X or LinkedIn. Also use when the user mentions "founder brand", "personal content", "build audience", or "grow my following".
+description: When the user wants to build personal brand, thought leadership, or IP as a founder on Twitter/X or LinkedIn. Also use when the user mentions "founder brand", "personal content", "build audience", or "grow my following".
 related: [social-content, content-strategy, landing-page]
 reads: [startup-context]
 ---

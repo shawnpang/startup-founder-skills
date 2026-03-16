@@ -1,6 +1,6 @@
 ---
 name: interview-kit
-trigger: When the user needs to design an interview process, create interview questions, build scorecards, calibrate interviewers, or evaluate candidates for a role.
+description: When the user needs to design an interview process, create interview questions, build scorecards, calibrate interviewers, or evaluate candidates for a role.
 related: [job-description, sourcing-outreach]
 reads: [startup-context]
 ---

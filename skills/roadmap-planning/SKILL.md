@@ -1,6 +1,6 @@
 ---
 name: roadmap-planning
-trigger: When the user needs to organize product initiatives into a prioritized, time-sequenced plan with outcomes and dependencies.
+description: When the user needs to organize product initiatives into a prioritized, time-sequenced plan with outcomes and dependencies.
 related: [prd-writing, mvp-scoping]
 reads: [startup-context]
 ---

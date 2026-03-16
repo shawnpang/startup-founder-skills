@@ -1,6 +1,6 @@
 ---
 name: review-mining
-trigger: When the user wants to research customer pain points, complaints, or sentiment using review platforms like Trustpilot, G2, Capterra, or app stores. Also use when the user mentions "what are users saying", "competitor reviews", "pain points", or "voice of customer research".
+description: When the user wants to research customer pain points, complaints, or sentiment using review platforms like Trustpilot, G2, Capterra, or app stores. Also use when the user mentions "what are users saying", "competitor reviews", "pain points", or "voice of customer research".
 related: [competitive-analysis, user-research-synthesis, feedback-synthesis, cold-outreach]
 reads: [startup-context]
 ---

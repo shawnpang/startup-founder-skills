@@ -1,6 +1,6 @@
 ---
 name: employer-brand
-trigger: When the user needs to create or improve content that shapes how candidates and the public perceive the company as a place to work.
+description: When the user needs to create or improve content that shapes how candidates and the public perceive the company as a place to work.
 related: [job-description, content-strategy]
 reads: [startup-context]
 ---

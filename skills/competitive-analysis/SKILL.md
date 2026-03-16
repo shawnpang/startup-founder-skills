@@ -1,6 +1,6 @@
 ---
 name: competitive-analysis
-trigger: When the user needs to evaluate competitors, understand the competitive landscape, or position their product against alternatives.
+description: When the user needs to evaluate competitors, understand the competitive landscape, or position their product against alternatives.
 related: [market-research, prd-writing]
 reads: [startup-context]
 ---

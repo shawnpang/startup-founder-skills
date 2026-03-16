@@ -1,6 +1,6 @@
 ---
 name: process-docs
-trigger: When the user needs to create SOPs, playbooks, runbooks, or other operational documentation that defines how a recurring process should be executed.
+description: When the user needs to create SOPs, playbooks, runbooks, or other operational documentation that defines how a recurring process should be executed.
 related: [support-docs, board-update]
 reads: [startup-context]
 ---

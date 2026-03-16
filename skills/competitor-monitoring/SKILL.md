@@ -1,6 +1,6 @@
 ---
 name: competitor-monitoring
-trigger: When the user wants to set up ongoing tracking of competitor activity — pricing changes, feature launches, hiring signals, content, or public mentions. Also use when the user mentions "track competitors", "what are competitors doing", "competitor alerts", or "market watch".
+description: When the user wants to set up ongoing tracking of competitor activity — pricing changes, feature launches, hiring signals, content, or public mentions. Also use when the user mentions "track competitors", "what are competitors doing", "competitor alerts", or "market watch".
 related: [competitive-analysis, daily-product-digest, review-mining, market-research]
 reads: [startup-context]
 ---

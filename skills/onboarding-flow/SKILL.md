@@ -1,6 +1,6 @@
 ---
 name: onboarding-flow
-trigger: When the user needs to design, improve, or audit a post-signup activation flow to get new users to their first value moment. Activate when activation is lagging, time-to-value feels excessive, or first sessions lack impact.
+description: When the user needs to design, improve, or audit a post-signup activation flow to get new users to their first value moment. Activate when activation is lagging, time-to-value feels excessive, or first sessions lack impact.
 related: [support-docs, email-marketing, churn-analysis]
 reads: [startup-context]
 ---

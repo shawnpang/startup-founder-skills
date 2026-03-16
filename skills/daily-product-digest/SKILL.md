@@ -1,6 +1,6 @@
 ---
 name: daily-product-digest
-trigger: When the user wants a summary of what's trending on Product Hunt, Hacker News, Indie Hackers, or other product/startup communities. Also use when the user mentions "what launched today", "trending products", "HN front page", or "keep up with the market".
+description: When the user wants a summary of what's trending on Product Hunt, Hacker News, Indie Hackers, or other product/startup communities. Also use when the user mentions "what launched today", "trending products", "HN front page", or "keep up with the market".
 related: [competitive-analysis, market-research, launch-strategy]
 reads: [startup-context]
 ---

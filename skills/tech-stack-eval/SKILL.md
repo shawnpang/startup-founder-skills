@@ -1,6 +1,6 @@
 ---
 name: tech-stack-eval
-trigger: When the user needs to choose between technologies, frameworks, or tools — or says "which framework should I use", "compare X vs Y", "should we migrate from X to Y", "what database should I use", "calculate TCO".
+description: When the user needs to choose between technologies, frameworks, or tools — or says "which framework should I use", "compare X vs Y", "should we migrate from X to Y", "what database should I use", "calculate TCO".
 related: [architecture-design, cicd-setup]
 reads: [startup-context]
 ---

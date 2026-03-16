@@ -1,6 +1,6 @@
 ---
 name: seo-technical
-trigger: When the user needs a technical SEO audit, on-page optimization guidance, or help resolving crawlability, indexation, or performance issues that affect search rankings.
+description: When the user needs a technical SEO audit, on-page optimization guidance, or help resolving crawlability, indexation, or performance issues that affect search rankings.
 related: [content-strategy, landing-page]
 reads: [startup-context]
 ---

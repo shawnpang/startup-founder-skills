@@ -1,6 +1,6 @@
 ---
 name: community-discovery
-trigger: When the user wants to find Slack groups, Discord servers, Reddit communities, forums, or online communities where their target audience hangs out. Also use when the user mentions "where to promote", "find communities", "community marketing", or "distribution channels".
+description: When the user wants to find Slack groups, Discord servers, Reddit communities, forums, or online communities where their target audience hangs out. Also use when the user mentions "where to promote", "find communities", "community marketing", or "distribution channels".
 related: [cold-outreach, content-strategy, launch-strategy, landing-page]
 reads: [startup-context]
 ---

@@ -1,6 +1,6 @@
 ---
 name: email-marketing
-trigger: When the user needs to design, write, or optimize email sequences -- including welcome series, nurture campaigns, re-engagement flows, onboarding emails, or newsletter strategy.
+description: When the user needs to design, write, or optimize email sequences -- including welcome series, nurture campaigns, re-engagement flows, onboarding emails, or newsletter strategy.
 related: [cold-outreach, content-strategy, onboarding-flow]
 reads: [startup-context]
 ---

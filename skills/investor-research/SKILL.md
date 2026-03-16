@@ -1,6 +1,6 @@
 ---
 name: investor-research
-trigger: When the user wants to identify, evaluate, or prioritize potential investors for a fundraising round. Also activates when the user asks "who should I pitch?", "find me investors", "build an investor list", or mentions VC/angel targeting.
+description: When the user wants to identify, evaluate, or prioritize potential investors for a fundraising round. Also activates when the user asks "who should I pitch?", "find me investors", "build an investor list", or mentions VC/angel targeting.
 related: [pitch-deck, fundraising-email]
 reads: [startup-context]
 ---

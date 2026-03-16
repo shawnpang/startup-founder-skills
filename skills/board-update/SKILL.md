@@ -1,6 +1,6 @@
 ---
 name: board-update
-trigger: When the user needs to write a monthly or quarterly investor update, prepare a board deck, or communicate company progress to stakeholders.
+description: When the user needs to write a monthly or quarterly investor update, prepare a board deck, or communicate company progress to stakeholders.
 related: [process-docs, pitch-deck]
 reads: [startup-context]
 ---

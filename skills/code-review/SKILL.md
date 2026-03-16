@@ -1,6 +1,6 @@
 ---
 name: code-review
-trigger: When the user asks for a code review, shares code for feedback, or says "review this", "check my code", "what's wrong with this". Also activate when reviewing a pull request or diff.
+description: When the user asks for a code review, shares code for feedback, or says "review this", "check my code", "what's wrong with this". Also activate when reviewing a pull request or diff.
 related: [security-review, architecture-design]
 reads: [startup-context]
 ---

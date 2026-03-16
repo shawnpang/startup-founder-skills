@@ -1,6 +1,6 @@
 ---
 name: privacy-policy
-trigger: When the user needs to draft, review, or update a privacy policy for their product, or needs to understand data privacy obligations across jurisdictions.
+description: When the user needs to draft, review, or update a privacy policy for their product, or needs to understand data privacy obligations across jurisdictions.
 related: [terms-of-service, soc2-prep]
 reads: [startup-context]
 ---

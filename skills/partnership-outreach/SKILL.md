@@ -1,6 +1,6 @@
 ---
 name: partnership-outreach
-trigger: When a founder needs to write partnership or BD emails, craft integration pitches, or create co-marketing proposals. Activate when the user mentions partnerships, business development, integration proposals, co-marketing, channel partnerships, or strategic alliances.
+description: When a founder needs to write partnership or BD emails, craft integration pitches, or create co-marketing proposals. Activate when the user mentions partnerships, business development, integration proposals, co-marketing, channel partnerships, or strategic alliances.
 related: [cold-outreach, proposal-generation]
 reads: [startup-context]
 ---

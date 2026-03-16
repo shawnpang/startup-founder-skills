@@ -1,6 +1,6 @@
 ---
 name: sentiment-monitoring
-trigger: When the user wants to monitor reviews, mentions, and community sentiment about their own product. Also use when the user mentions "track our reviews", "what are people saying about us", "brand monitoring", "reputation management", or "review alerts".
+description: When the user wants to monitor reviews, mentions, and community sentiment about their own product. Also use when the user mentions "track our reviews", "what are people saying about us", "brand monitoring", "reputation management", or "review alerts".
 related: [review-mining, feedback-synthesis, churn-analysis, community-discovery]
 reads: [startup-context]
 ---

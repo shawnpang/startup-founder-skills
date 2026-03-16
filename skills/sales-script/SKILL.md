@@ -1,6 +1,6 @@
 ---
 name: sales-script
-trigger: When a founder needs demo scripts, discovery call frameworks, objection handling, RFP/RFI responses, competitive feature matrices, POC planning, or closing playbooks. Activate for sales calls, demo prep, talk tracks, bid responses, competitor comparisons, or pre-sales engineering.
+description: When a founder needs demo scripts, discovery call frameworks, objection handling, RFP/RFI responses, competitive feature matrices, POC planning, or closing playbooks. Activate for sales calls, demo prep, talk tracks, bid responses, competitor comparisons, or pre-sales engineering.
 related: [cold-outreach, proposal-generation]
 reads: [startup-context]
 ---

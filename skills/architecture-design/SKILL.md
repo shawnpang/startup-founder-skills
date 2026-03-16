@@ -1,6 +1,6 @@
 ---
 name: architecture-design
-trigger: When the user needs to design or evaluate system architecture — service boundaries, data models, API contracts, infrastructure topology, database selection, or dependency analysis. Also activate for "design the system", "how should I architect this", "monolith vs microservices", or architecture decision records.
+description: When the user needs to design or evaluate system architecture — service boundaries, data models, API contracts, infrastructure topology, database selection, or dependency analysis. Also activate for "design the system", "how should I architect this", "monolith vs microservices", or architecture decision records.
 related: [tech-stack-eval, security-review, code-review]
 reads: [startup-context]
 ---

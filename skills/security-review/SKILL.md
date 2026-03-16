@@ -1,6 +1,6 @@
 ---
 name: security-review
-trigger: When the user needs a security assessment — threat modeling, vulnerability review, auth flow audit, dependency scanning, or says "is this secure", "review for vulnerabilities", "threat model", "security audit", "pen test prep".
+description: When the user needs a security assessment — threat modeling, vulnerability review, auth flow audit, dependency scanning, or says "is this secure", "review for vulnerabilities", "threat model", "security audit", "pen test prep".
 related: [code-review, architecture-design, soc2-prep]
 reads: [startup-context]
 ---

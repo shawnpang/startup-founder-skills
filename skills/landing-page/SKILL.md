@@ -1,6 +1,6 @@
 ---
 name: landing-page
-trigger: When the user needs to create, critique, or optimize a landing page for conversion -- including headline rewrites, CTA placement, layout restructuring, or full page copy drafts.
+description: When the user needs to create, critique, or optimize a landing page for conversion -- including headline rewrites, CTA placement, layout restructuring, or full page copy drafts.
 related: [content-strategy, seo-technical, cold-outreach]
 reads: [startup-context]
 ---

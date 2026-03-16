@@ -1,6 +1,6 @@
 ---
 name: accelerator-application
-trigger: When the user wants to apply to startup accelerators, incubators, or fellowship programs. Also use when the user mentions "YC application", "Techstars", "accelerator", or "apply to programs".
+description: When the user wants to apply to startup accelerators, incubators, or fellowship programs. Also use when the user mentions "YC application", "Techstars", "accelerator", or "apply to programs".
 related: [pitch-deck, fundraising-email, investor-research]
 reads: [startup-context]
 ---

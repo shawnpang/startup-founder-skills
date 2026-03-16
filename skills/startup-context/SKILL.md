@@ -1,6 +1,6 @@
 ---
 name: startup-context
-trigger: When the user wants to create or update their startup context document. Also use when the user mentions "set up context", "tell you about my startup", or any other skill needs context that doesn't exist yet.
+description: When the user wants to create or update their startup context document. Also use when the user mentions "set up context", "tell you about my startup", or any other skill needs context that doesn't exist yet.
 related: []
 reads: []
 ---

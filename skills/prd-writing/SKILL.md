@@ -1,6 +1,6 @@
 ---
 name: prd-writing
-trigger: When the user needs to define a product feature, write a product requirements document, or translate an idea into a structured spec.
+description: When the user needs to define a product feature, write a product requirements document, or translate an idea into a structured spec.
 related: [roadmap-planning, mvp-scoping]
 reads: [startup-context]
 ---

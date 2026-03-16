@@ -1,6 +1,6 @@
 ---
 name: terms-of-service
-trigger: When the user needs to draft, review, or update terms of service for their SaaS product or web application.
+description: When the user needs to draft, review, or update terms of service for their SaaS product or web application.
 related: [privacy-policy, contract-review]
 reads: [startup-context]
 ---

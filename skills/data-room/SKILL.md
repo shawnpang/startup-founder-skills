@@ -1,6 +1,6 @@
 ---
 name: data-room
-trigger: When the user wants to prepare a due diligence data room for fundraising, or when an investor has requested additional materials after a pitch. Also activates for "data room", "due diligence", "DD checklist", or "what documents do investors need?".
+description: When the user wants to prepare a due diligence data room for fundraising, or when an investor has requested additional materials after a pitch. Also activates for "data room", "due diligence", "DD checklist", or "what documents do investors need?".
 related: [pitch-deck, investor-research]
 reads: [startup-context]
 ---

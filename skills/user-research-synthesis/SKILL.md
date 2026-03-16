@@ -1,6 +1,6 @@
 ---
 name: user-research-synthesis
-trigger: When the user has raw customer interview transcripts, survey responses, support tickets, or other qualitative data and needs to extract actionable insights.
+description: When the user has raw customer interview transcripts, survey responses, support tickets, or other qualitative data and needs to extract actionable insights.
 related: [prd-writing, competitive-analysis]
 reads: [startup-context]
 ---

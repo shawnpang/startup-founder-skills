@@ -1,6 +1,6 @@
 ---
 name: mvp-scoping
-trigger: When the user needs to decide what to build, cut, and defer for a first release or minimum viable version of a product or feature.
+description: When the user needs to decide what to build, cut, and defer for a first release or minimum viable version of a product or feature.
 related: [prd-writing, roadmap-planning]
 reads: [startup-context]
 ---
