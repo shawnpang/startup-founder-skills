@@ -79,7 +79,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | | | | |
 | **Sales & BD** | | | |
 | [cold-outreach](skills/cold-outreach/) | High | [Brian Wagner](https://github.com/BrianRWagner/ai-marketing-claude-code-skills/tree/main/cold-outreach-sequence) | Write cold emails, LinkedIn messages, and follow-up sequences for B2B prospecting. Adapted from cold-outreach-sequence skill. |
-| [sales-script](skills/sales-script/) | Medium | [gtmagents](https://github.com/gtmagents/gtm-agents/tree/main/plugins/sales-calls) | Demo scripts, discovery call frameworks, objection handling docs, and closing playbooks. Adapted from sales-calls skill. |
+| [sales-script](skills/sales-script/) | Medium | [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/sales-engineer) | Demo scripts, discovery call frameworks, objection handling docs, and closing playbooks. Adapted from sales-engineer skill. |
 | [proposal-generation](skills/proposal-generation/) | Medium | [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/contract-and-proposal-writer) | Create sales proposals, SOWs, and pricing quotes. Adapted from contract-and-proposal-writer skill. |
 | [lead-scoring](skills/lead-scoring/) | Medium | [Athina AI](https://github.com/athina-ai/goose-skills/tree/main/skills/composites/inbound-lead-qualification) | Define ICP criteria, lead qualification frameworks, and scoring models. Adapted from inbound-lead-qualification skill. |
 | [partnership-outreach](skills/partnership-outreach/) | High | Shawn Pang | Write partnership proposals, integration pitches, and co-marketing outreach. |
@@ -289,12 +289,11 @@ Found a way to improve a skill? Have a new skill to suggest? PRs and issues welc
 This project builds on the work of many open-source skill authors:
 
 - [Corey Haines](https://github.com/coreyhaines31/marketingskills) — Marketing Skills for AI Agents, the project that inspired this repo
-- [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills) — Engineering, architecture, CI/CD, and compliance skills
+- [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills) — Engineering, architecture, CI/CD, sales, and compliance skills
 - [Pawel Huryn](https://github.com/phuryn/pm-skills) — Product management skills (PRDs, roadmaps, research, privacy)
 - [Jeff Allan](https://github.com/Jeffallan/claude-skills) — Code review and security review skills
 - [Brian Wagner](https://github.com/BrianRWagner/ai-marketing-claude-code-skills) — Cold outreach and social content skills
 - [Athina AI](https://github.com/athina-ai/goose-skills) — Lead scoring and churn analysis skills
-- [gtmagents](https://github.com/gtmagents/gtm-agents) — Sales and GTM skills
 - [Daniel Agrici](https://github.com/AgriciDaniel/claude-seo) — Technical SEO skills
 - [Daniel Mendes](https://github.com/dmend3z/tribo-skills) — Launch strategy and marketing skills
 - [Manoj Bajaj](https://github.com/manojbajaj95/claude-gtm-plugin) — Onboarding and GTM skills
