@@ -297,3 +297,7 @@ Found a way to improve a skill? Have a new skill to suggest? PRs and issues welc
 ## License
 
 [MIT](LICENSE) — Use these however you want.
+
+## Acknowledgments
+
+Inspired by [Marketing Skills for AI Agents](https://github.com/coreyhaines31/marketingskills) by Corey Haines.
