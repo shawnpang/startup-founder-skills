@@ -17,14 +17,6 @@ If you're at a company with a VP of Sales, a Head of Marketing, and in-house cou
 
 Skills are markdown files that give AI agents specialized knowledge and workflows for specific tasks. When you add these to your project, your agent can recognize what you're working on and apply the right frameworks, templates, and best practices — so you get founder-grade output, not generic AI slop.
 
-## How These Skills Were Built
-
-Each skill is based on the best open-source skill we could find for that task — from authors like [Pawel Huryn](https://github.com/phuryn/pm-skills), [Alireza Rezvani](https://github.com/alirezarezvani/claude-skills), [Corey Haines](https://github.com/coreyhaines31/marketingskills), [Jeff Allan](https://github.com/Jeffallan/claude-skills), and others. We read the original SKILL.md, extracted the core frameworks and workflows, and adapted them into a consistent format tailored for startup founders.
-
-In some cases, multiple skills from a source were merged into one. For example, our `soc2-prep` draws from a broader CISO advisor skill, our `lead-scoring` combines ICP definition with pipeline qualification, and our `sales-script` merges demo scripting with RFP analysis and competitive positioning. The goal is one skill per founder task, not one skill per original repo.
-
-Every attributed skill was [verified against its source](/README.md#acknowledgments) — the Author column in the table below links directly to the original skill each one is based on.
-
 ## How Skills Work Together
 
 Every skill reads from `startup-context` first — your company's stage, product, market, team, and metrics. This shared context means skills produce output tailored to your specific startup, not generic advice.
@@ -271,6 +263,8 @@ Found a way to improve a skill? Have a new skill to suggest? PRs and issues welc
 [MIT](LICENSE) — Use these however you want.
 
 ## Acknowledgments
+
+Each skill is based on the best open-source skill we could find for that task. We read the original SKILL.md, extracted the core frameworks and workflows, and adapted them into a consistent format tailored for startup founders. In some cases, multiple skills from a source were merged into one. For example, our `soc2-prep` draws from a broader CISO advisor skill, our `lead-scoring` combines ICP definition with pipeline qualification, and our `sales-script` merges demo scripting with RFP analysis and competitive positioning. The goal is one skill per founder task, not one skill per original repo. The Author column in the skills table links directly to the original skill each one is based on.
 
 This project builds on the work of many open-source skill authors:
 
